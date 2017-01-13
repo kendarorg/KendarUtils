@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ku.Commons", "Ku.Commons\Ku.Commons.csproj", "{70FBABC5-EBDA-4030-834E-A6C208A02BEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ku.CastleWindsor", "Ku.CastleWindsor\Ku.CastleWindsor.csproj", "{9F38483D-6CB0-4CE8-AFF7-C664307EB2CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ku.Main", "Ku.Main\Ku.Main.csproj", "{4F4C45C4-E81B-4DFC-87FA-3054BDDAE49A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ku.CastleWindsor.Web", "Ku.CastleWindsor.Web\Ku.CastleWindsor.Web.csproj", "{590318DC-D2BF-46DE-BC79-39426216402A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ku.Web", "Ku.Web\Ku.Web.csproj", "{2CE1B163-0683-49CA-81E1-74B886FB857B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ku.CastleWindsor.WebMvc", "Ku.CastleWindsor.Mvc\Ku.CastleWindsor.WebMvc.csproj", "{E7D29193-4C0F-40EA-BFF5-CCBE7275BD55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ku.ConsoleLogger", "Ku.ConsoleLogger\Ku.ConsoleLogger.csproj", "{F9B43C5C-D125-45F6-A9CB-A655468EE798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70FBABC5-EBDA-4030-834E-A6C208A02BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FBABC5-EBDA-4030-834E-A6C208A02BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FBABC5-EBDA-4030-834E-A6C208A02BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FBABC5-EBDA-4030-834E-A6C208A02BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F38483D-6CB0-4CE8-AFF7-C664307EB2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F38483D-6CB0-4CE8-AFF7-C664307EB2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F38483D-6CB0-4CE8-AFF7-C664307EB2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F38483D-6CB0-4CE8-AFF7-C664307EB2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4C45C4-E81B-4DFC-87FA-3054BDDAE49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4C45C4-E81B-4DFC-87FA-3054BDDAE49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4C45C4-E81B-4DFC-87FA-3054BDDAE49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4C45C4-E81B-4DFC-87FA-3054BDDAE49A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590318DC-D2BF-46DE-BC79-39426216402A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590318DC-D2BF-46DE-BC79-39426216402A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590318DC-D2BF-46DE-BC79-39426216402A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590318DC-D2BF-46DE-BC79-39426216402A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE1B163-0683-49CA-81E1-74B886FB857B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE1B163-0683-49CA-81E1-74B886FB857B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE1B163-0683-49CA-81E1-74B886FB857B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE1B163-0683-49CA-81E1-74B886FB857B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D29193-4C0F-40EA-BFF5-CCBE7275BD55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D29193-4C0F-40EA-BFF5-CCBE7275BD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D29193-4C0F-40EA-BFF5-CCBE7275BD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D29193-4C0F-40EA-BFF5-CCBE7275BD55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B43C5C-D125-45F6-A9CB-A655468EE798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B43C5C-D125-45F6-A9CB-A655468EE798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B43C5C-D125-45F6-A9CB-A655468EE798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B43C5C-D125-45F6-A9CB-A655468EE798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
